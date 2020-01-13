@@ -1,0 +1,16 @@
+header {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+.list {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+}
+
+.shop{
+    width: 31%;
+    border: dotted black 1px;
+}
